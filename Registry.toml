@@ -3,5 +3,6 @@ uuid = "4581a982-f9e8-4375-b38e-d165d53e496f"
 repo = "file:///C:/Users/gusga/Documents/GitHub/Julia/EconRegistry"
 
 [packages]
+d0f1779d-20ea-47f6-8e33-fa6a588e0d79 = { name = "EconFrames", path = "E/EconFrames" }
 f0e7e95f-09d5-42c4-913f-11006a2aff60 = { name = "EconStats", path = "E/EconStats" }
 f1f4d348-8162-412b-9f52-fe17ce20fcd0 = { name = "EconVariables", path = "E/EconVariables" }
