@@ -1,0 +1,5 @@
+name = "EconRegistry"
+uuid = "4581a982-f9e8-4375-b38e-d165d53e496f"
+repo = "file:///C:/Users/gusga/Documents/GitHub/Julia/EconRegistry"
+
+[packages]
